@@ -1,6 +1,6 @@
 # Chocboard
 
-*A 60% ortholinear keyboard for Choc switches, inspired by [Boardwalk](https://mkultra.click/boardwalk-pcb) *
+*A 60% ortholinear keyboard for Choc switches, inspired by [Boardwalk](https://mkultra.click/boardwalk-pcb)*
 
 * Keyboard Maintainer: [ianklug](https://github.com/ianklug)
 * Hardware Supported: *Chocboard*

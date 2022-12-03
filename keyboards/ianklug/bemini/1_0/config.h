@@ -19,12 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #include "config_common.h"
 
-#define VENDOR_ID    0x4B4C // "KL" = klug
-#define PRODUCT_ID   0x424D // "BM" = bemini
-#define DEVICE_VER   0x0010
-#define MANUFACTURER ianklug
-#define PRODUCT      bemini
-
 #define MATRIX_ROWS 1
 #define MATRIX_COLS 13
 

@@ -1,4 +1,4 @@
-/* Copyright 2021 ianklug
+/* Copyright 2022 ianklug
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -14,20 +14,4 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#pragma once
-
-#include "quantum.h"
-
-/* This is a shortcut to help you visually see your layout.
- *
- * The first section contains all of the arguments representing the physical
- * layout of the board and position of the keys.
- *
- * The second converts the arguments into a two-dimensional array which
- * represents the switch matrix.
- */
-#define LAYOUT( \
-    k00, k01, k02, k03 \
-) { \
-    { k00, k01, k02, k03 } \
-}
+#include "2_0.h"
